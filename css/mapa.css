@@ -1,0 +1,69 @@
+      html, body{
+        height:100%;
+        margin: 0px;
+      }
+      #googleMap{
+        width:800px;
+        height:600px;
+        margin-top: 50px;
+        margin-left: 270px;
+        border-radius: 10px;
+        border-style: solid;
+        border-color: white;
+        margin-bottom: 40px;
+      }
+
+
+h1{
+  text-align: center;
+  font-family: 'Rochester', cursive;
+  font-size: 45px;
+}
+
+hr{
+
+  border-style: solid;
+  border-color: black;
+    border-width: 2px;
+
+}
+ h1:hover{
+  opacity: 0.5;
+  transform: scale(1.2);
+ }
+
+ p{
+  font-family: 'Rochester', cursive;
+  text-align: center;
+  font-size: 25px;
+ 
+ }
+
+ #encabezado{
+  background-color: #98D4D2 ;
+  height: 100px;
+  border-style: solid;
+  border-width: 1px; }
+
+  footer{
+background-color:#98D4D2;
+  height: 100px;
+  border-style: solid;
+  border-width: 1px;  }
+
+#google{
+   margin-left: 50px;
+}
+
+
+#google:hover{
+   
+  margin-left: 90px;
+
+
+  }
+
+  body{
+    background-color: #DCDCDC;
+  }
+
